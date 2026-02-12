@@ -15,11 +15,23 @@ public class Profile {
         return names;
     }
 
+    public void setNames(String names) {
+        this.names = names;
+    }
+
     public String getEmail() {
         return email;
     }
 
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
     public String getPhoneNo() {
         return phoneNo;
+    }
+
+    public void setPhoneNo(String phoneNo) {
+        this.phoneNo = phoneNo;
     }
 }
