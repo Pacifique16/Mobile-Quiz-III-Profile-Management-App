@@ -41,6 +41,11 @@ public class ProfileActivity extends AppCompatActivity {
                     return;
                 }
 
+                if (!android.util.Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
+                    Toast.makeText(ProfileActivity.this, "Invalid email format", Toast.LENGTH_SHORT).show();
+                    return;
+                }
+
                 editor.putString("names", names);
                 editor.putString("email", email);
                 editor.putString("phoneNo", phoneNo);
