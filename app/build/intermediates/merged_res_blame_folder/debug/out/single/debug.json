@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.auca.quizthree.app-merged_res-28:/layout_activity_detail.xml.flat",
+        "source": "com.auca.quizthree.app-main-30:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.auca.quizthree.app-merged_res-28:/layout_activity_profile.xml.flat",
+        "source": "com.auca.quizthree.app-main-30:/layout/activity_profile.xml"
+    }
+]

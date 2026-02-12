@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id btnSave
+id btnViewProfile
+id etEmail
+id etNames
+id etPhoneNo
+id tvEmail
+id tvNames
+id tvPhoneNo
+layout activity_detail
+layout activity_profile
+string app_name
+style Theme.QUIZTHREE
