@@ -20,10 +20,10 @@ An Android application for managing user profiles with data persistence using Sh
 ## Screenshots
 
 ### Profile Input Screen
-![Profile Screen](images/profile.png)
+<img src="images/profile.png" alt="Profile Screen" width="300"/>
 
 ### Saved Data Display
-![Saved Data](images/saved%20data.png)
+<img src="images/saved%20data.png" alt="Saved Data" width="300"/>
 
 ## Technologies Used
 
