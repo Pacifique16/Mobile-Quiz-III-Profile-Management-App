@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile Information"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/etNames"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Names"
+        android:inputType="textPersonName"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Email"
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etPhoneNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Profile"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnViewProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Saved Profile"/>
+
+</LinearLayout>
