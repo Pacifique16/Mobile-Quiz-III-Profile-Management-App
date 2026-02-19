@@ -36,7 +36,7 @@ An Android application for managing user profiles with data persistence using Sh
 
 1. Clone the repository:
 ```bash
-git clone https://gitlab.com/harerimanapacifique95/quiz-three.git
+git clone https://github.com/Pacifique16/Mobile-Quiz-III-Profile-Management-App.git
 ```
 
 2. Open in Android Studio
