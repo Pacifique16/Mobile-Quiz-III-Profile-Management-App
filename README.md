@@ -49,3 +49,22 @@ git clone https://github.com/Pacifique16/Mobile-Quiz-III-Profile-Management-App.
 - Gradle 8.5+
 - Java 21
 - Android SDK 33
+
+## ⭐ Show Your Support
+
+**If you found this project helpful or interesting, please consider giving it a star!** 🌟
+
+Your support motivates me to create more educational projects and helps others discover useful resources.
+
+---
+
+### 👨‍💻 Author
+**Pacifique Harerimana**  
+AUCA Student - Mobile Programming QUIZ-THREE
+
+📧 Contact: [GitHub](https://github.com/Pacifique16)
+
+---
+
+*Built with ❤️ for learning and sharing knowledge*
+
