@@ -50,6 +50,13 @@ git clone https://github.com/Pacifique16/Mobile-Quiz-III-Profile-Management-App.
 - Java 21
 - Android SDK 33
 
+
+## 📝 License
+
+© Copyright 2026 Pacifique Harerimana
+
+This project is for educational purposes as part of AUCA Mobile Programming coursework. Feel free to fork and learn from it, but please give credit where it's due.
+
 ## ⭐ Show Your Support
 
 **If you found this project helpful or interesting, please consider giving it a star!** 🌟
